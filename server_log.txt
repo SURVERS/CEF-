@@ -1,0 +1,52 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:32:26] filterscripts = ""  (string)
+[14:32:26] 
+[14:32:26] Server Plugins
+[14:32:26] --------------
+[14:32:26]  Loading plugin: pawncmd
+[14:32:26] [Pawn.CMD] plugin v3.4.0 loading...
+[14:32:26] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[14:32:26]   Loaded.
+[14:32:26]  Loading plugin: sscanf
+[14:32:26] 
+
+[14:32:26]  ===============================
+
+[14:32:26]       sscanf plugin loaded.     
+
+[14:32:26]          Version:  2.8.3        
+
+[14:32:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:32:26]  ===============================
+
+[14:32:26]   Loaded.
+[14:32:26]  Loading plugin: cef
+[14:32:26] CEF plugin is successful loaded.
+[14:32:26]   Loaded.
+[14:32:26]  Loaded 3 plugins.
+
+[14:32:26] 
+[14:32:26] Filterscripts
+[14:32:26] ---------------
+[14:32:26]   Loaded 0 filterscripts.
+
+[14:32:26] Number of vehicle models: 0
